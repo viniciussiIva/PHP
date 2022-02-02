@@ -1,7 +1,7 @@
 <?php
 // nome da variável começa sempre com o $ e um valor
 $nome = "Vinícius da Silva Oliveira Melo";
-$idade = 23;
+$idade = 25;
 $altura = 1.90;
 $cidade = "Areado";
 $profissao = "Programador";
