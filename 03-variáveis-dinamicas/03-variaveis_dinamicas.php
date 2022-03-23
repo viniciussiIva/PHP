@@ -3,7 +3,7 @@
 
 $nome = "Vinícius";
 $$nome = "Programador";
-$$nome = "Programador";
+
 
 echo $nome;
 
